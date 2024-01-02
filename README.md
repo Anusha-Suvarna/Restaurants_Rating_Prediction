@@ -66,8 +66,8 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 ## Usage Instructions
 1.	Install Dependencies: 
 -	Jupyter Notebook 
--	pip install pandas numpy matplotlib seaborn plotly sklearn flask
--	PyCharm Community version
+-	pip install `pandas` `numpy` `matplotlib` `seaborn` `plotly` `sklearn flask`
+-	`PyCharm` Community version
 
 2.	Data Preprocessing: 
 -	Import 'zomato.csv' and perform data cleaning.
