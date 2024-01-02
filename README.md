@@ -3,14 +3,14 @@
 ## Description
 The Restaurants Rating Prediction project is a regression-based analysis aiming to predict restaurant ratings using a dataset sourced from Zomato.  It explores data visualization, model building, and deployment as a web application using Flask. With 56,250 records, this dataset encompasses various factors influencing restaurant ratings, including location, cuisine, cost, and service features. The project utilizes regression techniques to predict restaurant ratings, facilitating insights into factors contributing to higher or lower ratings on the Zomato platform.
 ## Table of Contents
-- [Key Features](# Key-Features)
-- [Dependencies](# Dependencies)
+- [Key Features](#Key-Features)
+- [Dependencies](#Dependencies)
 - [Dataset](#Dataset)
-- [Tools and Libraries](# Tools-and-Libraries)
+- [Tools and Libraries](#Tools-and-Libraries)
 - [Folder Structure](#Folder-Structure)
-- [Usage Instructions](# Usage-Instructions)
-- [Models used and Accuracy results](# Models-used-and-Accuracy-results)
-- [Deployment](# Deployment)
+- [Usage Instructions](#Usage-Instructions)
+- [Models used and Accuracy results](#Models-used-and-Accuracy-results)
+- [Deployment](#Deployment)
 
 ## Key Features
 """
