@@ -13,19 +13,18 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 - [Deployment](#Deployment)
 
 ## Key Features
-"""
-•	Data Analysis and Visualization: Conducts insightful analysis on restaurant ratings, prices, cuisines, and more.
-•	Model Development: Trains and compares multiple regression models to find the best predictor of ratings.
-•	Web Application Deployment: Creates an interactive web interface for users to get predictions based on various restaurant attributes.
-""" 
+- Data Analysis and Visualization: Conducts insightful analysis on restaurant ratings, prices, cuisines, and more.
+- Model Development: Trains and compares multiple regression models to find the best predictor of ratings.
+- Web Application Deployment: Creates an interactive web interface for users to get predictions based on various restaurant attributes.
+   
 ## Dependencies
-•	Python 3.x
-•	Libraries: pandas, NumPy, matplotlib, seaborn, plotly, sklearn, Flask
-•	IDE: PyCharm Community Edition (recommended)
+-	Python 3.x
+-	Libraries: pandas, NumPy, matplotlib, seaborn, plotly, sklearn, Flask
+-	IDE: PyCharm Community Edition (recommended)
 ## Dataset
-•	Source: The dataset used for this project is 'zomato.csv', containing records from the Zomato platform.
-•	Format: CSV
-•	Size: 56250 records
+-	Source: The dataset used for this project is taken from kaggle [https://www.kaggle.com/datasets/bansodesandeep/zomatocsv](#zomato.csv)
+-	Format: CSV
+-	Size: 56250 records
 •	Features: 
 1. url </B> - contains the url of the restaurant in the zomato website
 2. address - contains the address of the restaurant in Bengaluru
