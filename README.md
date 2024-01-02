@@ -87,17 +87,17 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 ## Models used and Accuracy results
 #### o	Best Performing Model: Extra Trees Regressor with 93.41% accuracy
 #### o   Other Models Explored: 
-#### - Linear Regression (Accuracy: 22.81%)
-#### - Random Forest Regressor (Accuracy: 88.09%)
+- Linear Regression (Accuracy: 22.81%)
+- Random Forest Regressor (Accuracy: 88.09%)
 
 ## Deployment
 1.	 Run the Web Application: 
-o	Navigate to the my_project directory in PyCharm. 
-o	python app.py.**: Contains Script for creating the regression model. Integrates the model and HTML code.
-o	Execute python app.py.
+-	Navigate to the `my_project` directory in PyCharm. 
+-	python `app.py`: Contains Script for creating the regression model. Integrates the model and HTML code.
+-	Execute python `app.py`.
 2.	 Access the Web Interface: 
-o	Open http://127.0.0.1:5000/ in your web browser.
+-	Open http://127.0.0.1:5000/ in your web browser.
 3.	Provide Input and Get Prediction: 
-o	Enter values for restaurant attributes in the text boxes.
-o	Click the "Predict" button.
-o	The predicted rating will be displayed on the web page.
+-	Enter values for restaurant attributes in the text boxes.
+-	Click the "Predict" button.
+-	The predicted rating will be displayed on the web page.
