@@ -55,8 +55,8 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 6.	Flask: Web framework for deployment.
    
 ## Folder Structure
-o-	zomato_df.csv: Clean dataset for the program.
-o	`my_project/` 
+#### o	zomato_df.csv: Clean dataset for the program.
+#### o	`my_project/` 
 -	`model.py`: Contains model training and saving code
 -	`templates/`: Holds HTML files for the web interface 
 -	`index.html`: Main web page for user input and prediction display
