@@ -26,7 +26,7 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 -	Source: The dataset used for this project is taken from kaggle [https://www.kaggle.com/datasets/bansodesandeep/zomatocsv]
 -	Format: CSV
 -	Size: 56250 records
-###-Features: 
+### Features: 
 1. url </B> - contains the url of the restaurant in the zomato website
 2. address - contains the address of the restaurant in Bengaluru
 3. name - contains the name of the restaurant
