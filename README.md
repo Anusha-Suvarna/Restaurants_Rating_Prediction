@@ -96,7 +96,7 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 -	python `app.py`: Contains Script for creating the regression model. Integrates the model and HTML code.
 -	Execute python `app.py`.
 2.	 Access the Web Interface: 
--	Open `index.html` in your web browser.
+-	Open http://127.0.0.1:5000/ in your web browser.
 3.	Provide Input and Get Prediction: 
 -	Enter values for restaurant attributes in the text boxes.
 -	Click the "Predict" button.
