@@ -22,7 +22,7 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 -	Libraries: pandas, NumPy, matplotlib, seaborn, plotly, sklearn, Flask
 -	IDE: PyCharm Community Edition (recommended)
 ## Dataset
--	Source: The dataset used for this project is taken from kaggle [https://www.kaggle.com/datasets/bansodesandeep/zomatocsv](#zomato.csv)
+-	Source: The dataset used for this project is taken from kaggle [https://www.kaggle.com/datasets/bansodesandeep/zomatocsv]
 -	Format: CSV
 -	Size: 56250 records
 •	Features: 
