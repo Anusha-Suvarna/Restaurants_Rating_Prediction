@@ -65,28 +65,30 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 
 ## Usage Instructions
 1.	Install Dependencies: 
-•	Jupyter Notebook 
-•	pip install pandas numpy matplotlib seaborn plotly sklearn flask
-•	PyCharm Community version
+-	Jupyter Notebook 
+-	pip install pandas numpy matplotlib seaborn plotly sklearn flask
+-	PyCharm Community version
 
 2.	Data Preprocessing: 
-•	Import 'zomato.csv' and perform data cleaning.
-•	Handle null values, duplicate records, and unnecessary columns.
+-	Import 'zomato.csv' and perform data cleaning.
+-	Handle null values, duplicate records, and unnecessary columns.
 3.	Exploratory Data Analysis:  
-Visualizing and understanding the data. Explore and visualize restaurant-related data including famous restaurants, booking options, online delivery, and rating distributions.
+- Visualizing and understanding the data. Explore and visualize restaurant-related data including famous restaurants, booking options, online delivery, and rating distributions.
 4.	Model Creation: 
-•	Convert categorical variables to numeric format for model training.
-•	Split the dataset into training and testing sets.
-•	Train models such as Linear Regression, Random Forest Regressor, and Extra Trees Regressor.
+-	Convert categorical variables to numeric format for model training.
+-	Split the dataset into training and testing sets.
+-	Train models such as Linear Regression, Random Forest Regressor, and Extra Trees Regressor.
 
 5.	Deployment and Integration: 
-•	 Generate a pickle file for the trained model (`model.pkl`).
-•	Use Flask to deploy the model as a web application.
-•	The web application enables users to input restaurant-related parameters and predicts ratings using the trained model.
+-	 Generate a pickle file for the trained model (`model.pkl`).
+-	Use Flask to deploy the model as a web application.
+-	The web application enables users to input restaurant-related parameters and predicts ratings using the trained model.
 
 ## Models used and Accuracy results
-•	Best Performing Model: Extra Trees Regressor with 93.41% accuracy
-•	Other Models Explored: Linear Regression (Accuracy: 22.81%), Random Forest Regressor (Accuracy: 88.09%)
+#### o	Best Performing Model: Extra Trees Regressor with 93.41% accuracy
+#### o   Other Models Explored: 
+-Linear Regression (Accuracy: 22.81%)
+-Random Forest Regressor (Accuracy: 88.09%)
 
 ## Deployment
 1.	 Run the Web Application: 
