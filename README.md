@@ -22,6 +22,7 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 -	Python 3.x
 -	Libraries: pandas, NumPy, matplotlib, seaborn, plotly, sklearn, Flask
 -	IDE: PyCharm Community Edition (recommended)
+
 ## Dataset
 -	Source: The dataset used for this project is taken from kaggle [https://www.kaggle.com/datasets/bansodesandeep/zomatocsv]
 -	Format: CSV
@@ -52,14 +53,15 @@ The Restaurants Rating Prediction project is a regression-based analysis aiming 
 4.	Plotly: Interactive visualizations.
 5.	Scikit-learn: Machine learning models.
 6.	Flask: Web framework for deployment.
+   
 ## Folder Structure
-•	zomato_df.csv: Clean dataset for the program.
-•	my_project/ 
-o	model.py: Contains model training and saving code
-o	templates/: Holds HTML files for the web interface 
-	index.html: Main web page for user input and prediction display
-o	app.py: Integrates model and HTML code to create the web application
-o	zomato_df.csv: Cleaned dataset used by the model
+-	zomato_df.csv: Clean dataset for the program.
+-	`my_project/` 
+#### o	`model.py`: Contains model training and saving code
+#### o	`templates/`: Holds HTML files for the web interface 
+####     o	`index.html`: Main web page for user input and prediction display
+#### o	`app.py`: Integrates model and HTML code to create the web application
+#### o	`zomato_df.csv`: Cleaned dataset used by the model
 
 ## Usage Instructions
 1.	Install Dependencies: 
